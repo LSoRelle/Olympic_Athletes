@@ -1,2 +1,2 @@
-# US_Travel_Project
+# Olympic_Athletes
 Project 1 
