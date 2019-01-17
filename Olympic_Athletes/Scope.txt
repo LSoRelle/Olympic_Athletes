@@ -1,0 +1,14 @@
+Scope
+What are the relationship age, height and weight with winners/winning based on the event?
+
+Other Observations:
+top 20 winners and lossers countries that won olymplics in the last 120 years.
+
+who are the winners?
+what sports/events they won?
+What the participation rate of events? Count of ID
+
+Base on sex
+Segmented by seasons
+
+
